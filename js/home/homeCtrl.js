@@ -8,5 +8,9 @@ app.controller('homeCtrl', function ($scope, homeService) {
 	};
 	$scope.getTeamData();
 
+	$scope.teamData = teamData;
+
+	
+
 }); 
 
