@@ -1,5 +1,5 @@
 NbaRoutes
-========
+======== 
 
 NBA Routes is the first exposure you'll get to building a full fledged app with more than just one 'route'. Take a look at the full working version of the app [here](http://tylermcginnis.github.io/nbaRoutes). Notice that every route, whether it's the home page or individual team pages, all are retrieving  data before the route loads by using a **resolve**.
 
